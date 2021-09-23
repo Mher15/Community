@@ -1,0 +1,14 @@
+@font-face {
+    font-family: bokonique_bold ;
+    src: url("Bokonique-Bold.otf");
+}
+
+@font-face {
+    font-family: bokonique_light ;
+    src: url("Bokonique-Light.otf");
+}
+
+@font-face {
+    font-family: bokonique_regular ;
+    src: url("Bokonique-Regular.otf");
+}
