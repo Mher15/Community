@@ -8,8 +8,11 @@
     font-size: 1.2vw;
 }
 nav{
+    position: fixed !important;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
+    width: 100%;
+    z-index: 100;
 }
 .logo{
     background: #F9BC44;
